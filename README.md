@@ -1,6 +1,10 @@
-# New Project
+# phaser3-typescript-snowpack-template
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+A Phaser 3 template based on https://github.com/photonstorm/phaser3-project-template using Typescript and [Snowpack](https://www.snowpack.dev/).
+
+Why? Insanely fast developer experience on startup & live reload.
 
 ## Available Scripts
 
